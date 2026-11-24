@@ -5,14 +5,14 @@ const education = [
   {
     degree: 'MSc Business Analytics',
     school: 'UCD Michael Smurfit Graduate Business School, Dublin, Ireland',
-    period: 'Aug 2018 – 2024',
+    period: '2023 – 2024',
     coursework: 'Coursework: Technical Consulting, Business Decision Support Systems, Big Data, Data Governance, Data Management',
     icon: GraduationCap
   },
   {
     degree: 'B.Tech / Bachelor of Engineering - Information Technology',
     school: 'SRM Institute of Science and Technology, Chennai, India',
-    period: 'Aug 2018 – 2020',
+    period: '2016 – 2020',
     coursework: null,
     icon: GraduationCap
   }
